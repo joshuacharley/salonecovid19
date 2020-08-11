@@ -1,5 +1,5 @@
 # covid-app
-
+## LIVE DEMO: https://salonecovid19.netlify.app/
 ## Project setup
 ```
 npm install
